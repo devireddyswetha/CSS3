@@ -1,0 +1,28 @@
+.img {
+  background-image: url(./images.jpeg);
+  background-size: cover;
+  height: 1000px;
+  background-repeat: no-repeat, repeat;
+}
+.header{
+  background-color: black;
+  color: red;
+  padding-top: 12px;
+}
+h1{
+
+  font-size: 30px;
+}
+.data{
+  color: red;
+  padding-top: 600px;
+  text-align: center;
+  font-size: 30px;
+}
+span{
+  text-align: center;
+}
+.data1{
+  color: black;
+  text-align: center;
+}
